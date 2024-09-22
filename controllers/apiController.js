@@ -24,9 +24,9 @@ const processRequest = (req, res) => {
 
   const response = {
     is_success: true,
-    user_id: "john_doe_17091999", // Replace with actual format
-    email: "john@xyz.com",
-    roll_number: "ABCD123",
+    user_id: "ISHA_ANSHIKA_25032003", // Replace with actual format
+    email: "ia1244@srmist.edu.in",
+    roll_number: "RA2111030010284",
     numbers,
     alphabets,
     highest_lowercase_alphabet: highestLowercase ? [highestLowercase] : [],
